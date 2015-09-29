@@ -4,7 +4,7 @@
 #
 Name     : renderproto
 Version  : 0.11.1
-Release  : 3
+Release  : 4
 URL      : http://xorg.freedesktop.org/releases/individual/proto/renderproto-0.11.1.tar.bz2
 Source0  : http://xorg.freedesktop.org/releases/individual/proto/renderproto-0.11.1.tar.bz2
 Summary  : Render extension headers
